@@ -1,11 +1,18 @@
 # Book Search Engine Starter Code
 
+## Table of Content
+  1. [User_Story](#user_story)
+  2. [Acceptance_Criteria](#acceptance_criteria)
+  3. [Github](#github)
+  4. [Badge](#badge)
+  5. [License](#license)
+
 ## User_Story
 - AS AN avid reader
 - I WANT to search for new books to read
 - SO THAT I can keep a list of books to purchase
 
-## Acceptance Criteria
+## Acceptance_Criteria
 - GIVEN a book search engine
 - WHEN I load the search engine
 - THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
